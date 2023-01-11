@@ -1,0 +1,5 @@
+test:
+  property:
+    one: First Property
+    two: Second Property
+    three: Third Property
