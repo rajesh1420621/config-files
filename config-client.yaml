@@ -1,0 +1,3 @@
+test:
+  property:
+    one: First propert from the file config-client.yaml
